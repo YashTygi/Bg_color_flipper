@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Nunito:wght@500&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #000000;
+}
+.sharingan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin-bottom: 100px;
+}
+.title {
+    display: flex;
+    justify-content: center;
+    color: blanchedalmond;
+    font-size: 5rem;
+    margin-top: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
